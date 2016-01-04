@@ -24,7 +24,6 @@
         android:text="Surya"/>
 
 
-
     <TextView
         android:layout_marginTop="300dp"
         android:text="HI THIS IS BALAKRISHNA"
