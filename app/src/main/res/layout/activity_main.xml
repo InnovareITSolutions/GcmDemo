@@ -23,7 +23,11 @@
         android:layout_marginTop="200dp"
         android:text="Surya"/>
 
-
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="RGV"
+    android:layout_marginTop="100dp"/>
 
     <TextView
         android:layout_marginTop="300dp"
