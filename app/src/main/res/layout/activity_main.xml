@@ -17,15 +17,16 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="50dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="200dp"
+        android:text="Surya"/>
+
     <TextView
         android:layout_marginTop="300dp"
         android:text="HI THIS IS BALAKRISHNA"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_marginTop="200dp"
-        android:text="Surya"/>
 </RelativeLayout>
